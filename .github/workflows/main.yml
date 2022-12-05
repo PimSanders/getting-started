@@ -39,7 +39,7 @@ jobs:
             location: 'west europe'
             ports: '3000'
             cpu: 1
-            memory: 0.512
+            memory: 0.5
             # Storage
 #             azure-file-volume-share-name: shareName
 #             azure-file-volume-account-name: accountName
